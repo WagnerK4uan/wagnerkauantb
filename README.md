@@ -19,4 +19,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/wagner-kauan) 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_wagnerkauan/)
 
-![Imagem de Tecnologia](https://github.com/W4gnerKauan/foto/raw/main/img%20computer.jpg)
+![Imagem de Tecnologia](https://raw.githubusercontent.com/wagnerkauantb/foto/refs/heads/main/imagem%20para%20readme.avif?token=GHSAT0AAAAAAC2D46E2VRKN4EVRCWMMWICIZZMW2WQ)
